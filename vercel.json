@@ -1,8 +1,0 @@
-{
-  "version": 2,
-  "env": { "node": "14.x"
-  },
-  "routes": [
-      { "src": "/[^.]+", "dest": "/index.html", "status": 200 }
-  ]
-}
